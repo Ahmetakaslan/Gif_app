@@ -6,7 +6,8 @@ A new Flutter project.
 # if you want download
 
 
-<a href="https://github.com/Ahmetakaslan/Sinav_Takvimi/raw/master/app-release.apk" download="app-release.apk"><img src="download.png" alt="Download the app" style="width:100px;height:70px;"></a>
+<a href="https://github.com/Ahmetakaslan/Gif_app/blob/main/app-release.apk" download="app-release.apk"><img src="download.png" alt="Download the app" style="width:100px;height:70px;"></a>
+
 
 <img src="https://github.com/Ahmetakaslan/Gif_app/assets/95686166/9b89cadd-27bc-44f0-9987-90432e9417d2" width="350" height="700">
 
