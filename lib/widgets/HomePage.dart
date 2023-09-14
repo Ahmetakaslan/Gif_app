@@ -15,7 +15,7 @@ class MyHomePage extends StatefulWidget {
 }
 
 class _MyHomePageState extends State<MyHomePage> {
-  String api = "AIzaSyDgLq67MOOO8B1gDZtilE86cNKTbEcMLFk";
+  String api = "buraya apinizi giriniz";
   String situation = "gülme";
   List<Gif>? data;
   bool isTrue = false;
