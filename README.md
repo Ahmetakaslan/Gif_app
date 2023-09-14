@@ -3,6 +3,7 @@ Tenor sitesinde bir api key alın ve HomePagedeki api kısmına ekleyin.
 A new Flutter project.
 
 ## Getting Started
+# if you want download
 <img src="https://github.com/Ahmetakaslan/Gif_app/assets/95686166/9b89cadd-27bc-44f0-9987-90432e9417d2" width="350" height="700">
 
 <img src="https://github.com/Ahmetakaslan/Gif_app/assets/95686166/8e386a28-e0b7-4297-b35f-a0e4f0bfed2e" width="350" height="700">
