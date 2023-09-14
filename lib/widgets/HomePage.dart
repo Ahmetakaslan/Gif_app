@@ -1,6 +1,5 @@
 import 'dart:convert';
 import 'package:gif/classes/detail.dart';
-import 'package:video_player/video_player.dart';
 import 'package:flutter/material.dart';
 import 'package:gif/classes/GetData.dart';
 import 'package:gif/classes/Gif.dart';
