@@ -72,6 +72,21 @@ class _MyHomePageState extends State<MyHomePage> {
                 Expanded(
                   flex: 7,
                   child: TextField(
+                    onSubmitted: (value) {
+                        setState(() {
+                          if (isTrue == false) {
+                            setState(() {
+                              isTrue = true;
+                            });
+                          } else {
+                            isTrue = false;
+                          }
+
+                          situation = textGif.text;
+                          getData();
+                        });
+                    },
+                    autofocus: true,
                     controller: textGif,
                     decoration: InputDecoration(
                         hintText:
