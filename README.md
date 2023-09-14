@@ -1,5 +1,5 @@
 # gif
-
+Tenor sitesinde bir api key alın ve HomePagedeki api kısmına ekleyin.
 A new Flutter project.
 
 ## Getting Started
